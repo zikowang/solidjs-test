@@ -2,7 +2,7 @@
 
 import type { Component } from "solid-js";
 
-import MainRouter from "./Router/MainRouter";
+import MainRouter from "./router/MainRouter";
 
 import "./index.css";
 
